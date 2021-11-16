@@ -1,5 +1,5 @@
 - @TheFlowDKK
-- Currently learning python!
+- Currently learning python, HTML and JavaScript!
 
 12-07-2021
 
